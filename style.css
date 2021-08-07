@@ -1,0 +1,78 @@
+
+/*============================= Custome CSS ============== */
+
+/* Container */
+.container{
+    margin-bottom: 100px;
+}
+/* carousel */
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF2379;
+}
+/* Bay now button */
+.buy-now-button{
+    background: linear-gradient(90deg, #FF2379 0%, #FF2379 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+/* ====================== watch, bag , hoes css ============*/
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to right, #FD9739, #FFD02D);
+}
+.cat2{
+    background-image: linear-gradient(to right, #F94194, #F60277);
+}
+.cat3{
+
+    background-image: linear-gradient(to right, #3977FF, #3202F8);
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+
+
+/* ====================== Shoes catagoris CSS ============*/
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+    padding: 0%;
+}
+
+
+/* ====================== Subscribe Container CSS ============*/
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+
+/* ====================== Footer section CSS ============*/
+.footer{
+    text-align: center;
+    color: gray;
+}
